@@ -2,8 +2,10 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug, dependencies, docker, documentation, duplicate, enhancement, github_actions,
+  good first issue, help wanted, invalid, javascript, more-information-needed, question,
+  wontfix
+assignees: behnamkhanioffical
 
 ---
 
@@ -36,3 +38,4 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+@Behnamkhanioffical
